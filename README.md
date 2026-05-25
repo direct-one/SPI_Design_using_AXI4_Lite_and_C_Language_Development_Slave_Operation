@@ -1,0 +1,1 @@
+# SPI_Design_using_AXI4_Lite_and_C_Language_Development_Slave_Operation
