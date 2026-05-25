@@ -1,0 +1,104 @@
+global coverage_group 0 0 $unit::spi_coverage::spi_data_cg __coverage_spi_coverage.spi_data_cg unused_spi_coverage_spi_data_cg_loop_label $unit 0 1 0 1 $unit::./rtl/AXI_SPI_v1_0.v::./rtl/AXI_SPI_v1_0_S00_AXI.v...@4273463618 0  ( 0 
+)
+ 1 1
+ 0 45 /home/hedu06/KSH/UVM_AXI_SPI/tb/tb_AXI_SPI.sv
+ 93 0 0 0 1 0 0 0 0  1
+0
+0
+0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+0
+0
+0
+64
+0
+ 0
+
+2
+0
+0
+0
+ 12 cp_m_tx_byte 94 0 0 0 0 0 0 135 _vcs_unit__4273463618_spi_coverage_11_0::_vcs_unit__4273463618_spi_coverage_11_0__vcs_unit__4273463618_spi_coverage_11_0_spi_data_cg_fn 135 _vcs_unit__4273463618_spi_coverage_11_0::_vcs_unit__4273463618_spi_coverage_11_0__vcs_unit__4273463618_spi_coverage_11_0_spi_data_cg_fn 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 8 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 6 1 1 0 0 1 1 8 all_zero 95 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 137 _vcs_unit__4273463618_spi_coverage_11_0::_vcs_unit__4273463618_spi_coverage_11_0__vcs_unit__4273463618_spi_coverage_11_0_spi_data_cg_fn_0 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 7 all_one 96 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 137 _vcs_unit__4273463618_spi_coverage_11_0::_vcs_unit__4273463618_spi_coverage_11_0__vcs_unit__4273463618_spi_coverage_11_0_spi_data_cg_fn_1 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 11 alternating 97 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 2 1 1 137 _vcs_unit__4273463618_spi_coverage_11_0::_vcs_unit__4273463618_spi_coverage_11_0__vcs_unit__4273463618_spi_coverage_11_0_spi_data_cg_fn_2 0 0 0 0 0 0 0
+ 1 1 137 _vcs_unit__4273463618_spi_coverage_11_0::_vcs_unit__4273463618_spi_coverage_11_0__vcs_unit__4273463618_spi_coverage_11_0_spi_data_cg_fn_3 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 12 walking_ones 99 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 8 1 1 137 _vcs_unit__4273463618_spi_coverage_11_0::_vcs_unit__4273463618_spi_coverage_11_0__vcs_unit__4273463618_spi_coverage_11_0_spi_data_cg_fn_4 0 0 0 0 0 0 0
+ 1 1 137 _vcs_unit__4273463618_spi_coverage_11_0::_vcs_unit__4273463618_spi_coverage_11_0__vcs_unit__4273463618_spi_coverage_11_0_spi_data_cg_fn_5 0 0 0 0 0 0 0
+ 1 1 137 _vcs_unit__4273463618_spi_coverage_11_0::_vcs_unit__4273463618_spi_coverage_11_0__vcs_unit__4273463618_spi_coverage_11_0_spi_data_cg_fn_6 0 0 0 0 0 0 0
+ 1 1 137 _vcs_unit__4273463618_spi_coverage_11_0::_vcs_unit__4273463618_spi_coverage_11_0__vcs_unit__4273463618_spi_coverage_11_0_spi_data_cg_fn_7 0 0 0 0 0 0 0
+ 1 1 137 _vcs_unit__4273463618_spi_coverage_11_0::_vcs_unit__4273463618_spi_coverage_11_0__vcs_unit__4273463618_spi_coverage_11_0_spi_data_cg_fn_8 0 0 0 0 0 0 0
+ 1 1 137 _vcs_unit__4273463618_spi_coverage_11_0::_vcs_unit__4273463618_spi_coverage_11_0__vcs_unit__4273463618_spi_coverage_11_0_spi_data_cg_fn_9 0 0 0 0 0 0 0
+ 1 1 137 _vcs_unit__4273463618_spi_coverage_11_0::_vcs_unit__4273463618_spi_coverage_11_0__vcs_unit__4273463618_spi_coverage_11_0_spi_data_cg_fn_a 0 0 0 0 0 0 0
+ 1 1 137 _vcs_unit__4273463618_spi_coverage_11_0::_vcs_unit__4273463618_spi_coverage_11_0__vcs_unit__4273463618_spi_coverage_11_0_spi_data_cg_fn_b 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 13 walking_zeros 101 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 8 1 1 137 _vcs_unit__4273463618_spi_coverage_11_0::_vcs_unit__4273463618_spi_coverage_11_0__vcs_unit__4273463618_spi_coverage_11_0_spi_data_cg_fn_c 0 0 0 0 0 0 0
+ 1 1 137 _vcs_unit__4273463618_spi_coverage_11_0::_vcs_unit__4273463618_spi_coverage_11_0__vcs_unit__4273463618_spi_coverage_11_0_spi_data_cg_fn_d 0 0 0 0 0 0 0
+ 1 1 137 _vcs_unit__4273463618_spi_coverage_11_0::_vcs_unit__4273463618_spi_coverage_11_0__vcs_unit__4273463618_spi_coverage_11_0_spi_data_cg_fn_e 0 0 0 0 0 0 0
+ 1 1 137 _vcs_unit__4273463618_spi_coverage_11_0::_vcs_unit__4273463618_spi_coverage_11_0__vcs_unit__4273463618_spi_coverage_11_0_spi_data_cg_fn_f 0 0 0 0 0 0 0
+ 1 1 138 _vcs_unit__4273463618_spi_coverage_11_0::_vcs_unit__4273463618_spi_coverage_11_0__vcs_unit__4273463618_spi_coverage_11_0_spi_data_cg_fn_10 0 0 0 0 0 0 0
+ 1 1 138 _vcs_unit__4273463618_spi_coverage_11_0::_vcs_unit__4273463618_spi_coverage_11_0__vcs_unit__4273463618_spi_coverage_11_0_spi_data_cg_fn_11 0 0 0 0 0 0 0
+ 1 1 138 _vcs_unit__4273463618_spi_coverage_11_0::_vcs_unit__4273463618_spi_coverage_11_0__vcs_unit__4273463618_spi_coverage_11_0_spi_data_cg_fn_12 0 0 0 0 0 0 0
+ 1 1 138 _vcs_unit__4273463618_spi_coverage_11_0::_vcs_unit__4273463618_spi_coverage_11_0__vcs_unit__4273463618_spi_coverage_11_0_spi_data_cg_fn_13 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 13 random_others 102 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 8 0 0 0 0 0 0 0 0 0
+
+ 12 cp_s_tx_data 104 0 0 0 0 0 0 138 _vcs_unit__4273463618_spi_coverage_11_0::_vcs_unit__4273463618_spi_coverage_11_0__vcs_unit__4273463618_spi_coverage_11_0_spi_data_cg_fn_14 138 _vcs_unit__4273463618_spi_coverage_11_0::_vcs_unit__4273463618_spi_coverage_11_0__vcs_unit__4273463618_spi_coverage_11_0_spi_data_cg_fn_14 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 8 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 3 1 1 0 0 1 1 8 all_zero 105 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 137 _vcs_unit__4273463618_spi_coverage_11_0::_vcs_unit__4273463618_spi_coverage_11_0__vcs_unit__4273463618_spi_coverage_11_0_spi_data_cg_fn_0 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 7 all_one 106 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 137 _vcs_unit__4273463618_spi_coverage_11_0::_vcs_unit__4273463618_spi_coverage_11_0__vcs_unit__4273463618_spi_coverage_11_0_spi_data_cg_fn_1 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 13 random_others 107 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 8 0 0 0 0 0 0 0 0 0
+
+end_coverage_group
