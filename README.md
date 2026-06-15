@@ -4,6 +4,9 @@
 
 본 프로젝트는 FPGA 환경에서 **AXI4-Lite 버스**를 통해 제어되는 SPI Master IP를 활용하여, 하드웨어 스위치 및 버튼 입력을 처리하고 외부 SPI 슬레이브 장치와 데이터를 주고받는 시스템입니다.
 
+## Ip Block Diagram
+<img width="1595" height="706" alt="image" src="https://github.com/user-attachments/assets/460e87b0-a5c9-4f27-9ef3-83c6ccf9f8ac" />
+
 ## 📌 핵심 기능
 
 - **SPI Data Transmission**: DIP 스위치(`GPIOA`)로 입력된 8비트 데이터를 버튼(`GPIOD Pin 6`) 클릭 시 SPI 슬레이브로 전송합니다.
