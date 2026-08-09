@@ -71,4 +71,8 @@ if (Button_GetState(&hbtnRead) == ACT_PUSHED) {
     FND_SetNum(rx_data);                // 수신 데이터 표시
 }
 ```
+### SPI 동작영상( SPI Operation Video )
+https://github.com/user-attachments/assets/7294850d-d3f5-45e0-89f3-4e2a19ad3b91
+
+
 
